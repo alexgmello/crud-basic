@@ -1,0 +1,30 @@
+Dados do Cliente - Cadastro realizado em: 04/06/2018 - 14:55:53
+Nome: tobias
+E-mail: tobias@gmail.com
+Telefone: 22522525
+---------------------------------
+
+Dados do Cliente - Cadastro realizado em: 04/06/2018 - 12:07:12
+Nome: tobias
+E-mail: tobias@gmail.com
+Telefone: 22522525
+---------------------------------
+
+Dados do Cliente - Cadastro realizado em: 04/06/2018 - 12:11:32
+Nome: tobias
+E-mail: tobias@gmail.com
+Telefone: 22522525
+---------------------------------
+
+Dados do Cliente - Cadastro realizado em: 04/06/2018 - 12:11:34
+Nome: tobias
+E-mail: tobias@gmail.com
+Telefone: 22522525
+---------------------------------
+
+Dados do Cliente - Cadastro realizado em: 04/06/2018 - 12:12:10
+Nome: tobias
+E-mail: tobias@gmail.com
+Telefone: 22522525
+---------------------------------
+
